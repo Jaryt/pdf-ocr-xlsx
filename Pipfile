@@ -6,7 +6,8 @@ name = "pypi"
 [packages]
 pytesseract = "*"
 xlrd = "*"
-pdfminer = "*"
+pymupdf = "*"
+pillow = "*"
 
 [dev-packages]
 
