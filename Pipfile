@@ -5,9 +5,10 @@ name = "pypi"
 
 [packages]
 pytesseract = "*"
-xlrd = "*"
 pymupdf = "*"
 pillow = "*"
+pandas = "*"
+xlwings = "*"
 
 [dev-packages]
 
